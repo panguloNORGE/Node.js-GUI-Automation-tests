@@ -1,0 +1,18 @@
+{ 
+"src_folders" : ["tests"],
+"selenium" : { 
+"start_process" : true,
+"server_path" : "bin/selenium-server-standalone-2.53.0.jar",
+"cli_args": {
+      "webdriver.edge.driver": "./bin/MicrosoftWebDriver.exe"
+    }
+},
+
+"test_settings" : {
+ "default" : {
+"desiredCapabilities": { 
+"browserName": "MicrosoftEdge"
+ }
+ }
+ }
+ }

@@ -1,5 +1,5 @@
 # Node.js-GUI-Automation-tests
-GUI automation using node.js with a norwegian website XEneta
+GUI automation using node.js with the Norwegian website company Xeneta
 
 These are two test suites with the automated tests for Xeneta's website:  Media Sources and Request Demo pages.
 

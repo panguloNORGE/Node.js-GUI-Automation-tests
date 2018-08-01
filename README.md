@@ -67,7 +67,6 @@ Files needed are uploaded in this GIT repository
 
 
 SETUP instructions
-
 =============== 
 
 1-in your PC create the main folder w/ any name you want e.g. “MAIN FOLDER” 
@@ -92,7 +91,6 @@ TestSuite_RequestDemo.js
 
 
 RUN the tests
-
 ==============
 
 1-in the node.js command prompt , change directory to “MAIN FOLDER”  , once in this directory, run the wanted test suite w/ this command:
